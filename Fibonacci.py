@@ -15,7 +15,7 @@ def fibonacci(n):
 
 
 print('10 số đầu tiền của Fibonacci: ')
-for i in range(0, 10):
+for i in range(0, 50):
     sd = ''
     sd = sd + str(fibonacci(i))
     print(sd, end=",")
